@@ -1,7 +1,7 @@
 ```markdown
 欢迎来到数学建模讨论小组 Welcome to the Mathematical-Modeling Seminar.
 ```
-# 近期活动
+# 近期活动安排
 
 活动编号|年|月|日|活动地点|小组名称|活动关键词|活动状态
 -|-|-|-|-|-|-|-
