@@ -14,5 +14,5 @@ A0|2019|08|14|--|--|网站创建|已完成
 
 活动编号|各种文件|选材(素材)|活动记录|笔记|感悟|疑问|其它
 -|-|-|-|-|-|-|-
-A1|<[证明](https://pan.baidu.com/s/1OS382jDf3HrP1An7tc_Ulg)>以及 <[课前练讲视频](http://list.youku.com/albumlist/show/id_52252980.html)>|[选材(素材)](https://mp.weixin.qq.com/s/5_kWKxQ7fCARvhyBLJOK8A)|活动记录|笔记|感悟|疑问|其它
+A1|<[证明](https://pan.baidu.com/s/1OS382jDf3HrP1An7tc_Ulg)>以及<[课前练讲视频](http://list.youku.com/albumlist/show/id_52252980.html)>|[选材(素材)](https://mp.weixin.qq.com/s/5_kWKxQ7fCARvhyBLJOK8A)|活动记录|笔记|感悟|疑问|其它
 A0|各种文件|选材(素材)|活动记录|笔记|感悟|疑问|[查看](https://github.com)
