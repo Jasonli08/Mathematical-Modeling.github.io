@@ -1,3 +1,22 @@
+# 欢迎来到数学建模讨论小组 Welcome to the Mathematical-Modeling Seminar.
+## 课堂记录 
+### 视频记录
+### 音频记录
+### 课堂笔记
+## 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Jasonli08/Mathematical-Modeling.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
